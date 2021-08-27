@@ -1,0 +1,13 @@
+{
+    "appTitle": "Liste de depenses",
+    "headerText": "Voici, le graphique ...",
+    "deleteButton": "Effacer",
+    "titleInputLabel": "Description",
+    "amountInputLabel": "Montant",
+    "dateInputLabel": "Date",
+    "datePickerLabel": "Selectionnez la date",
+    "addButtonCaption": "Ajouter",
+    "addButtonTooltip": "Ajouter une transaction",
+    "noDataText": "Pas de donnees disponibles.",
+    "switchLabel": "Montrer diagramme"
+}

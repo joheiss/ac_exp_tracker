@@ -1,0 +1,46 @@
+{
+    "appTitle": "Expense Tracker",
+    "@appTitle": {
+        "description": "app title"
+    },
+    "headerText": "Here comes the header ...",
+    "@headerText": {
+        "description": "header text"
+    },
+    "deleteButton": "Delete",
+    "@deleteButton": {
+        "description": "label for delete button"
+    },
+    "titleInputLabel": "Title",
+    "@titleInputLabel": {
+        "description": "label for title input"
+    },
+    "amountInputLabel": "Amount",
+    "@amountInputLabel": {
+        "description": "label for amount input"
+    },
+    "dateInputLabel": "Pick a date",
+    "@dateInputLabel": {
+        "description": "label for date input"
+    },
+    "datePickerLabel": "Pick a date",
+    "@datePickerLabel": {
+        "description": "label for date picker"
+    },
+    "addButtonCaption": "Add",
+    "@addButtonCaption": {
+        "description": "caption for add button"
+    },
+    "addButtonTooltip": "Add transaction",
+    "@addButtonTooltip": {
+        "description": "tooltip for add button"
+    },
+    "noDataText": "No transactions received yet.",
+    "@noDataText": {
+        "description": "text for no data in list"
+    },
+    "switchLabel": "Show chart",
+    "@switchLabel": {
+        "description": "label for switch"
+    }
+}

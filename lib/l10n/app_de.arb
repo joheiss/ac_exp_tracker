@@ -1,0 +1,13 @@
+{
+    "appTitle": "Ausgabenliste",
+    "headerText": "Hier kommt die Grafik hin ...",
+    "deleteButton": "Löschen",
+    "titleInputLabel": "Bezeichnung",
+    "amountInputLabel": "Betrag",
+    "dateInputLabel": "Datum",
+    "datePickerLabel": "Datum auswählen",
+    "addButtonCaption": "Hinzufügen",
+    "addButtonTooltip": "Transaktion hinzufügen",
+    "noDataText": "Bisher hast du keine Ausgaben erfasst.",
+    "switchLabel": "Diagram anzeigen"
+}
